@@ -1,0 +1,156 @@
+body {
+  background-color: #e4f6g9;
+  padding:0 50px;
+}
+
+h1{
+  font-family: "Montserret-black";
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+h2{
+  padding: 3% 0;
+  font-size: 1.5rem;
+}
+
+span{
+  font-family: "Montserret-black";
+  font-weight: bold;
+  padding: 2.5rem 0;
+}
+
+/* //////////////////////////////////////////////// NAVBAR section /////////////////////////////////////////////// */
+
+.nav-brand-name{
+  display: inline-block;
+
+}
+
+.brand-name{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.nav-bar-other-options{
+  margin-left:250px;
+}
+
+.link-nav{
+  padding: 0 05px;
+}
+
+.nav-bar-sign-in-up-options{
+  position: relative;
+  display: inline-block;
+  margin-left:300px ;
+}
+
+.btn{
+  border-radius: 10px;
+}
+
+
+/* //////////////////////////////////////////////// Hero section /////////////////////////////////////////////// */
+
+.icon-intro-over-hero-heading{
+  font-style: italic;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+
+.main-line{
+  padding-bottom: 150px;
+}
+
+.hero-btn{
+  padding: 0;
+}
+
+.btn1hero{
+  background-color: #0dcaf0;
+  border-radius: 12px;
+}
+
+.btn2hero{
+  background-color: black;
+  border-radius: 12px;
+  color:white;
+}
+
+.hero-section-background{
+  padding-left: 400px;
+}
+
+/* ////////////////////////////////////////////    company profile section     /////////////////////////////////////////// */
+
+.company-title-lines{
+  text-align: center;
+  font-style: "Montserret";
+  font-weight: bold;
+  padding: 50px 0;
+  color: #8f8f8f;
+}
+
+.company-profile{
+  padding: 0 8% 0 5%  ;
+}
+
+/*-- ///////////////////////////////////////////     FEATURES-SECTION       ///////////////////////////////////////////////// --*/
+
+#features-section{
+  padding: 30px 40px;
+}
+
+.small-intro{
+  padding: 15px 0;
+  font-size: 4rem;
+  font-style: italic;
+  font-family: "Montserret-black"
+}
+
+/*-- ///////////////////////////////////////////    OUR-TOP-CATEGORIES-SECTION       ////////////////////////////////////////////////// --*/
+
+.top-categories{
+  color: black;
+  padding: 7% 15% 0 15%;
+  text-align: center;
+  font-family: "Montserret-black";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.top-categories-heading{
+  text-align: center;
+  font-family: "Montserret-black";
+  color: #8f8f8f;
+  font-weight: bolder;
+}
+
+.categories-icon-name-link{
+padding:7% 15% 0 10%;
+}
+
+.span{
+  padding: 20px 0;
+  text-align: center;
+}
+
+
+.design-categories{
+  padding: 0 70px;
+}
+.development-categories{
+    padding: 0 70px;
+}
+
+.business-categories{
+  padding: 0 70px;
+}
+
+.art-culture-categories{
+    padding: 0 70px;
+}
+
+
+/*-- ///////////////////////////////////////////   POPULAR-COURSES-SECTION       ////////////////////////////////////////////////// -*/
